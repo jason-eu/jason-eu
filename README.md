@@ -25,12 +25,6 @@ I’m a technical tinkerer focused on pushing the boundaries of consumer hardwar
 
 ---
 
-### 📊 GitHub Stats
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-eu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason-eu&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Connect with me
 - **Portfolio**: [jason-eu.github.io](https://jason-eu.github.io/)
 - **Activity**: You'll usually find me debugging issues in the [GoldHEN](https://github.com/GoldHEN/GoldHEN) or [Shizuku](https://github.com/RikkaApps/Shizuku) repos.
