@@ -1,3 +1,4 @@
+[English](README.md) | [Français](README.fr.md)
 # 👋 Hey, I'm Jason.
 
 ### 🛠️ Enthusiast Developer | Android & PS4 Modder | System Optimizer
